@@ -1,0 +1,1 @@
+import{o,c as r,a as s}from"./index-CdKCoYKJ.js";const a={class:"markdown-body"},_={__name:"0",setup(n,{expose:e}){return e({frontmatter:{}}),(m,t)=>(o(),r("div",a,t[0]||(t[0]=[s("p",null,"你好，这是一篇测试文章！",-1)])))}};export{_ as default};
